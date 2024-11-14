@@ -14,5 +14,3 @@ def add(a: float, b: float):
 def multiply(a: float, b: float):
     """return the result after multiply"""
     return {"result": a * b}
-
-
